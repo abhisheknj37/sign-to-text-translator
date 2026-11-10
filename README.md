@@ -1,5 +1,9 @@
 # Sign Language to Text Translator
 
+<escape>🚀 Live Demo: https://sign-to-text-translator.onrender.com</escape>  
+> Web demo supports camera capture or image upload for single-sign letter recognition.
+
+
 A Machine Learning based system that converts **hand sign language gestures into readable text** using computer vision and deep learning.
 
 This project helps bridge the communication gap between **hearing-impaired individuals and non-sign language users**.
